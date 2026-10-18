@@ -33,7 +33,7 @@ if (typeof importScripts === 'function') {
       if (r && r.moves) res = { moves: r.moves, ti: r.ti, fallback: !!r.fallback }; } catch (err) { res = null; }
     postMessage({ id, res }); };
 }`;
-html = html.replace('/*@MINX@*/', () => minx.trim()).replace('/*@DATA@*/', () => data).replace('/*@LLSRC@*/', () => JSON.stringify(worker));
+html = html.replace('/*@MINX@*/', () => minx.trim()).replace('/*@DIAG@*/', () => strip('diagram.js').trim()).replace('/*@DATA@*/', () => data).replace('/*@LLSRC@*/', () => JSON.stringify(worker));
 const out = process.argv[2] || path.join(ROOT, 'index.html');
 fs.mkdirSync(require('path').dirname(out), { recursive: true });
 fs.writeFileSync(out, html);

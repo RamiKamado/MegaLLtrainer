@@ -95,10 +95,21 @@ const DIAG = (M => {
     }
     return res;
   }
+  // outer frame for the AUF quiz: one band per side face, outside the side stickers, in that face's colour.
+  // gap / width are perpendicular distances beyond the outer edge of the side stickers.
+  function ring(gap, width) {
+    const m = 1 / Math.cos(Math.PI / 5), d1 = T + GAP + gap, d2 = d1 + width, bands = [];
+    for (let k = 0; k < 5; k++) {
+      const A = v2[k], B = v2[(k + 1) % 5], radA = unit(sub(A, C)), radB = unit(sub(B, C));
+      const at = (P, r, d) => [P[0] + r[0] * d * m, P[1] + r[1] * d * m];
+      bands.push({ pts: [at(A, radA, d1), at(B, radB, d1), at(B, radB, d2), at(A, radA, d2)], side: out[k].side });
+    }
+    return bands;
+  }
   const f1 = x => Math.round(x * 100) / 100;
   const ptsStr = p => p.map(q => f1(q[0]) + ',' + f1(q[1])).join(' ');
   // compact geometry blob for embedding: polygons + slots
   const geometry = () => ({ cells: cells.map(c => ({ p: ptsStr(c.pts), s: c.slot, t: c.top ? 1 : 0 })), uc: Object.fromEntries(Object.entries(ucenter).map(([k, v]) => [k, [f1(v[0]), f1(v[1])]])), out, edgeSlot, cornerSlot });
-  return { geometry, arrows, cells, ucenter, edgeSlot, cornerSlot, sideFace, out };
+  return { geometry, arrows, ring, cells, ucenter, edgeSlot, cornerSlot, sideFace, out };
 })(typeof MINX !== 'undefined' ? MINX : require('./minx.js'));
 if (typeof module !== 'undefined') module.exports = DIAG;

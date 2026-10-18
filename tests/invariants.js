@@ -150,7 +150,61 @@ const mg=normStats({cases:{'Q1A':{n:2,s:4000,b:1500,w:2500,r:[1500,2500]}}}); ok
 // export/import round trip
 presets=[{name:'p',keys:['A1+','Z3','bogus'],okeys:['1A','zz']}]; ollAlg={'2A':1};
 const d=inspect(exportData()); ok(!d.err && d.presets[0].keys.length===2 && d.presets[0].okeys.length===1 && d.oalg['2A']===1 && d.stats,'export/import inspect');
-JSON.stringify({fails, single:SN?{n:sOk, oneEdge:typeof nEdge1==='undefined'?0:nEdge1, fallback:sFb, fallbackLen:sFb?(sFbLen/sFb).toFixed(1):null, avgLen:(sLen/sOk).toFixed(1), avgJoined:(sRaw/sOk).toFixed(1), avgMs:Math.round(sMs/SN)}:null, algChecks, qn, avgLen:(lens/(${PER}*151)).toFixed(1), maxLen, avgLenOllPll:(lensB/nB).toFixed(1)});
+// ---- AUF quiz ----
+// every case, every listed alg, every answer: the shown start state + the alg (with its rotations, regripped)
+// needs exactly that AUF; the start state is that PLL case; the 5 start states differ
+let aufChecks=0;
+for(const c of CASES){
+  c.a.forEach((a,i)=>{
+    if(i===0) delete pllAlg[c.n]; else pllAlg[c.n]=i;
+    const seq=algSeq(usePll(c).text); const seen=new Set();
+    for(const u of AUF_ORDER){ aufChecks++;
+      const X=aufStart(seq,u); seen.add(X.join());
+      ok(f2lIntact(X) && llOriented(X) && caseStates(c).has(sigOf(X)),'AUF start is not the case '+c.n+' alg'+i+' '+u);
+      const t=reo(MINX.apply(X,seq));
+      const need=AUF_ORDER.filter(v=>eqSolved(v?MINX.apply(t,v):t));
+      ok(need.length===1 && need[0]===u,'AUF answer wrong '+c.n+' alg'+i+' u='+u+' got '+need.join('|'));
+      ok(verifyAuf({c,u,alg:usePll(c),seq,X,ar:[]}),'verifyAuf rejects a correct question '+c.n+' '+u);
+    }
+    ok(seen.size===5,'AUF start states not distinct '+c.n+' alg'+i);
+  });
+  delete pllAlg[c.n];
+}
+// arrows describe the alg's own movement: the same for every answer
+{ const c=CASES[0], seq=algSeq(usePll(c).text);
+  ok(JSON.stringify(arrowsOf(aufStart(seq,'')))===JSON.stringify(makeAufQuestion(c).ar),'arrows depend on the answer'); }
+// a question with a wrong answer key is rejected
+{ const q=makeAufQuestion(CASES[3]); const bad={...q, u:AUF_ORDER[(AUF_ORDER.indexOf(q.u)+1)%5]}; ok(!verifyAuf(bad),'verifyAuf accepted a wrong answer'); }
+// custom PLL algs: accepted with an AUF in front, another case's alg and bad notation are rejected
+ok(pllPre(CASES[0],'U '+CASES[0].a[0].alg)!==null,'custom PLL alg with leading U accepted');
+ok(pllPre(CASES[0],CASES[60].a[0].alg)===null,'custom PLL alg of another case rejected');
+ok(pllPre(CASES[0],'R Q')===null,'bad PLL notation rejected');
+{ const c=CASES[10], t="U2 "+c.a[0].alg; pllAlg[c.n]={t, pre:pllPre(c,t)};
+  for(let k=0;k<20;k++){ const q=makeAufQuestion(c); ok(verifyAuf(q),'custom alg AUF question '+c.n); }
+  delete pllAlg[c.n]; }
+// quiz flow: recap over 8 cases, one wrong answer, undo restores the record
+practice='auf'; sel=new Set(CASES.slice(0,8).map(c=>c.id)); stats=emptyStats(); setMode('recap'); startAuf();
+let asked=0, guard=0; const askedIds=new Set();
+while(aCur && guard++<50){ asked++; askedIds.add(aCur.c.id);
+  const right=AUF_ORDER.indexOf(aCur.u); aufAnswer(asked===3?(right+1)%5:right); aufNext(); }
+ok(asked===8 && askedIds.size===8,'AUF recap asks each case once: '+asked);
+ok(aLog.length===8 && aLog.filter(x=>!x.ok).length===1,'AUF log');
+const tot=Object.values(stats.byMode.auf).reduce((a,e)=>a+e.n,0), okc=Object.values(stats.byMode.auf).reduce((a,e)=>a+e.ok,0);
+ok(tot===8 && okc===7,'AUF stats '+tot+' '+okc);
+const wrongCase=aLog[2].c; slowSec=60;
+ok(isSlow(wrongCase),'AUF slow: a miss in the last 5'); ok(!isSlow(aLog[0].c),'AUF slow: all right and fast');
+ok(isSlow(CASES[100]),'AUF slow: no record');
+document.getElementById('aundo').onclick();
+ok(Object.values(stats.byMode.auf).reduce((a,e)=>a+e.n,0)===7,'AUF undo');
+// stats normalisation and export / import of AUF records and PLL use-algs
+const ns=normStats({byMode:{auf:{'Q1A':{n:3,ok:2,s:3000,r:[1,0,1],t:[900,1200,900],u:{'U':[2,1],'':[1,1]}},'bogus':{n:1,ok:1}}}});
+ok(ns.byMode.auf['Q1+'] && ns.byMode.auf['Q1+'].ok===2 && !ns.byMode.auf.bogus,'AUF stats normalise');
+pllAlg={'A1-':1}; if(!CASES[1].a[1]) pllAlg={};
+const d2=inspect(exportData()); ok(!d2.err && d2.stats && Object.keys(d2.stats.byMode.auf).length>0,'AUF stats exported');
+ok(JSON.stringify(d2.palg)===JSON.stringify(pllAlg),'PLL use-algs exported');
+const before=JSON.stringify(stats.byMode.auf); applyImport(d2,{presets:false,oalg:true,stats:true,replace:false,settings:false});
+const merged=Object.values(stats.byMode.auf).reduce((a,e)=>a+e.n,0); ok(merged===14,'AUF stats merge on import '+merged);
+JSON.stringify({fails, aufChecks, single:SN?{n:sOk, oneEdge:typeof nEdge1==='undefined'?0:nEdge1, fallback:sFb, fallbackLen:sFb?(sFbLen/sFb).toFixed(1):null, avgLen:(sLen/sOk).toFixed(1), avgJoined:(sRaw/sOk).toFixed(1), avgMs:Math.round(sMs/SN)}:null, algChecks, qn, avgLen:(lens/(${PER}*151)).toFixed(1), maxLen, avgLenOllPll:(lensB/nB).toFixed(1)});
 `;
 const res = JSON.parse(eval(body + '\n;' + test));
 console.log(JSON.stringify({ ...res, fails: res.fails.length }, null, 0));
