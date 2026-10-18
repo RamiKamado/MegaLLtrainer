@@ -1,0 +1,17 @@
+{
+  "name": "megaminx-oll-pll-trainer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Megaminx の OLL 259 ケース・PLL 151 ケースの練習ツール（単一 HTML・オフライン動作）",
+  "scripts": {
+    "build": "node tools/build.js",
+    "data": "node tools/precompute2.js && node tools/precompute_oll.js && node tools/gen_oll1.js",
+    "check:sheet": "node tools/check.js && node tools/check_oll.js",
+    "test": "node tests/invariants.js index.html 10 && node tests/diagram.js",
+    "test:single": "node --max-old-space-size=4000 tests/invariants.js index.html 3",
+    "verify": "npm run data && npm run build && git diff --exit-code -- index.html data/generated"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

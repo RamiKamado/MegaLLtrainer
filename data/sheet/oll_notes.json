@@ -1,0 +1,1604 @@
+[
+ {
+  "ref": "BS7",
+  "row": 7,
+  "col": 71,
+  "name": "35B-",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "(R U2' R2' F' U' F R2 U2' R2' U2' R)\nx' (DR R2 U' R' U R U' R' U R' DR')\ny' (R' U F R' F' R2 U R2' F R F' R)"
+ },
+ {
+  "ref": "BT7",
+  "row": 7,
+  "col": 72,
+  "name": "36B+",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(F R' F' U' F U R2 U R' U' R U' R' F')\ny' (F U2 R U2 R' U' R U2 R' U' F')"
+ },
+ {
+  "ref": "BU7",
+  "row": 7,
+  "col": 73,
+  "name": "36B-",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(BR' U2' R' U2' R U R' U2' R U BR)\ny2' (R U R' U R U2' R2' F' U' F U R)"
+ },
+ {
+  "ref": "BV7",
+  "row": 7,
+  "col": 74,
+  "name": "37B+",
+  "set": 37.0,
+  "title": "L shapes",
+  "note": "(F R' F' R U2 R U' R' U R U2' R')"
+ },
+ {
+  "ref": "BW7",
+  "row": 7,
+  "col": 75,
+  "name": "37B-",
+  "set": 37.0,
+  "title": "L shapes",
+  "note": "(R U2 R' U' R U R' U2' R' F R F')\ny (R U2' R' F' U' F U2' R' F R F')"
+ },
+ {
+  "ref": "AJ9",
+  "row": 9,
+  "col": 36,
+  "name": "18C",
+  "set": 18.0,
+  "title": "Long block",
+  "note": "(F U R U' R' U R U' R' F')"
+ },
+ {
+  "ref": "AL9",
+  "row": 9,
+  "col": 38,
+  "name": "19C+",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "y' (R' U2 R BR' R BR R' U2 R' U R)\n(F R U' R' U R U2' R' U2' R U R' U' F')\ny2 (R U R' U2 R U' R2' F R F' U R U2 R')"
+ },
+ {
+  "ref": "AM9",
+  "row": 9,
+  "col": 39,
+  "name": "19C-",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "(R U2' R' F R' F' R U2' R U' R')"
+ },
+ {
+  "ref": "AN9",
+  "row": 9,
+  "col": 40,
+  "name": "20C+",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(BR' U2' R' U R U' R' U R U BR)\ny (R' U2' R F R' F' R U R' U R2 U2' R')"
+ },
+ {
+  "ref": "AO9",
+  "row": 9,
+  "col": 41,
+  "name": "20C-",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(F U2 R U' R' U R U' R' U' F')"
+ },
+ {
+  "ref": "AP9",
+  "row": 9,
+  "col": 42,
+  "name": "21C+",
+  "set": 21.0,
+  "title": "Line shapes",
+  "note": "(R' F' U2' F2 R U R' U' F' U2 R)\n(F U R U' R' U2 R U2' R' U R U' R' F')\ny2 (R U2' R' F R' F' U2' R2 U' R2' U2' R)"
+ },
+ {
+  "ref": "AQ9",
+  "row": 9,
+  "col": 43,
+  "name": "21C-",
+  "set": 21.0,
+  "title": "Line shapes",
+  "note": "(BR' U' R' U R U2' R' U2 R U' R' U R BR)\ny (F R U2 R2' F' U' F U R U2' F')"
+ },
+ {
+  "ref": "D11",
+  "row": 11,
+  "col": 4,
+  "name": "2D",
+  "set": 2.0,
+  "title": "2 corner CO",
+  "note": "(R' F R bR' R' F' R bR)\n(F R U R' U R U2' R' F')\ny2' (R2' DR' R U2' R' DR R U2 R)"
+ },
+ {
+  "ref": "BP9",
+  "row": 9,
+  "col": 68,
+  "name": "34C",
+  "set": 34.0,
+  "title": "Human shapes",
+  "note": "(R U R' U R' F R F' U R U2' R' U R U2' R')\n(R' U2' R U F R' U R2 U R' U2' F')"
+ },
+ {
+  "ref": "BR9",
+  "row": 9,
+  "col": 70,
+  "name": "35C+",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "(R' F R2 BR' R2' F' R2 BR R')"
+ },
+ {
+  "ref": "H11",
+  "row": 11,
+  "col": 8,
+  "name": "4D",
+  "set": 4.0,
+  "title": "4 corner CO",
+  "note": "(R U2' R' U2' R U2 R' U2' R U' R')\ny2' (R' U2 R U2 R' U2' R U2 R' U R)\ny2 (R' U2' R U R' U R2 U R' U R U2' R')"
+ },
+ {
+  "ref": "BS9",
+  "row": 9,
+  "col": 71,
+  "name": "35C-",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "(R BR' R2' F R2 BR R2' F' R)"
+ },
+ {
+  "ref": "BT9",
+  "row": 9,
+  "col": 72,
+  "name": "36C+",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(R' U' R U2' R' U F' U F U R)"
+ },
+ {
+  "ref": "BU9",
+  "row": 9,
+  "col": 73,
+  "name": "36C-",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(R U R' U2 R U' BR U' BR' U' R')\n(R U R' U2 R U' y R U' R' U' F')"
+ },
+ {
+  "ref": "BV9",
+  "row": 9,
+  "col": 74,
+  "name": "37C+",
+  "set": 37.0,
+  "title": "L shapes",
+  "note": "(R U R' U2 F R' F' R2 U2 R')\n(R U R' U R2 BR' R' BR U2' R')\ny2 (BR' R' U2' R U2 R' U2' R U2 BR)"
+ },
+ {
+  "ref": "BW9",
+  "row": 9,
+  "col": 75,
+  "name": "37C-",
+  "set": 37.0,
+  "title": "L shapes",
+  "note": "(R' U' R U' R2' F R F' U2 R)"
+ },
+ {
+  "ref": "AJ11",
+  "row": 11,
+  "col": 36,
+  "name": "18D",
+  "set": 18.0,
+  "title": "Long block",
+  "note": "(R' U2' R U R' F R' F' R U R)"
+ },
+ {
+  "ref": "AL11",
+  "row": 11,
+  "col": 38,
+  "name": "19D+",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "(F U R U R' U' R U R' U2' F')"
+ },
+ {
+  "ref": "AM11",
+  "row": 11,
+  "col": 39,
+  "name": "19D-",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "(BR' U' R' U' R U R' U' R U2 BR)\ny2 (R U R' U R U' R' U' R' F R2 U R' U' F')\n"
+ },
+ {
+  "ref": "AN11",
+  "row": 11,
+  "col": 40,
+  "name": "20D+",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(R' F R' F' R2 U' R' F' U' F R)\ny2 (R U2' R' F R' F' R2 U' R' U' R U' R')"
+ },
+ {
+  "ref": "AO11",
+  "row": 11,
+  "col": 41,
+  "name": "20D-",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(F R U' R' U R U2' R' U' R U' R' F')\ny' (R' U2' R F U R' U R U' R U' R' F')"
+ },
+ {
+  "ref": "AP11",
+  "row": 11,
+  "col": 42,
+  "name": "21D+",
+  "set": 21.0,
+  "title": "Line shapes",
+  "note": "(R' F' U' F U2' R U2 R' U R)\ny (F U2 R U2' R' U2 R U2' R' F')"
+ },
+ {
+  "ref": "AQ11",
+  "row": 11,
+  "col": 43,
+  "name": "21D-",
+  "set": 21.0,
+  "title": "Line shapes",
+  "note": "(BR' U2' R' U2 R U2' R' U2 R BR)"
+ },
+ {
+  "ref": "BP11",
+  "row": 11,
+  "col": 68,
+  "name": "34D",
+  "set": 34.0,
+  "title": "Human shapes",
+  "note": "(F R' F' R U R U R' U R U2 R')"
+ },
+ {
+  "ref": "BR11",
+  "row": 11,
+  "col": 70,
+  "name": "35D+",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "(F R U R' U' R U R' U' F')"
+ },
+ {
+  "ref": "H13",
+  "row": 13,
+  "col": 8,
+  "name": "4E+",
+  "set": 4.0,
+  "title": "4 corner CO",
+  "note": "(R' U2 R U R' U' R U R' U2 R)\ny2 (R U2 R2' U' R2 U' R2' U2 R)"
+ },
+ {
+  "ref": "BS11",
+  "row": 11,
+  "col": 71,
+  "name": "35D-",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "(BR' R' U' R U R' U' R U BR)\ny (R' F' U' F U F' U' F U R)"
+ },
+ {
+  "ref": "I13",
+  "row": 13,
+  "col": 9,
+  "name": "4E-",
+  "set": 4.0,
+  "title": "4 corner CO",
+  "note": "(R' U2' R2 U R2' U R2 U2' R')"
+ },
+ {
+  "ref": "B5",
+  "row": 5,
+  "col": 2,
+  "name": "1A",
+  "set": 1.0,
+  "title": "EO",
+  "note": "(L R U R' U' R' F R F' L')"
+ },
+ {
+  "ref": "BT11",
+  "row": 11,
+  "col": 72,
+  "name": "36D+",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(R U2' R' U' F R' F' R2 U2' R')"
+ },
+ {
+  "ref": "BU11",
+  "row": 11,
+  "col": 73,
+  "name": "36D-",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(R' U2 R U2 R2' F R F' U R)"
+ },
+ {
+  "ref": "D5",
+  "row": 5,
+  "col": 4,
+  "name": "2A",
+  "set": 2.0,
+  "title": "2 corner CO",
+  "note": "(R U R' U R U R' U2' R U' R')\ny2' (R' U' R U' R' U' R U2 R' U R)"
+ },
+ {
+  "ref": "BV11",
+  "row": 11,
+  "col": 74,
+  "name": "37D+",
+  "set": 37.0,
+  "title": "L shapes",
+  "note": "(F R' F' U' R U2' R U2 R2' U R)"
+ },
+ {
+  "ref": "BW11",
+  "row": 11,
+  "col": 75,
+  "name": "37D-",
+  "set": 37.0,
+  "title": "L shapes",
+  "note": "(R U2 R' U' R U2 R' F' U' F R U2' R')"
+ },
+ {
+  "ref": "F5",
+  "row": 5,
+  "col": 6,
+  "name": "3A+",
+  "set": 3.0,
+  "title": "3 corner CO",
+  "note": "(R U R' U R U2' R')\ny' (R' U2 R U2 R' U R)"
+ },
+ {
+  "ref": "G5",
+  "row": 5,
+  "col": 7,
+  "name": "3A-",
+  "set": 3.0,
+  "title": "3 corner CO",
+  "note": "(R' U' R U' R' U2 R)\ny (R U2' R' U2' R U' R')"
+ },
+ {
+  "ref": "H5",
+  "row": 5,
+  "col": 8,
+  "name": "4A",
+  "set": 4.0,
+  "title": "4 corner CO",
+  "note": "(R U R' U R U' R' U R U2' R')\ny2 (R' U' R U' R' U R U' R' U2 R)\ny (BL R' U' R U' R' U2 R BL')"
+ },
+ {
+  "ref": "J5",
+  "row": 5,
+  "col": 10,
+  "name": "5+",
+  "set": 5.0,
+  "title": "5 corner CO",
+  "note": "(R U R' U2 R U2' R' U R U2' R')\ny2' (R' U2' R U R' U2' R U2 R' U R)"
+ },
+ {
+  "ref": "K5",
+  "row": 5,
+  "col": 11,
+  "name": "5-",
+  "set": 5.0,
+  "title": "5 corner CO",
+  "note": "(R U2 R' U' R U2 R' U2' R U' R')\ny2' (R' U' R U2' R' U2 R U' R' U2 R)"
+ },
+ {
+  "ref": "L5",
+  "row": 5,
+  "col": 12,
+  "name": "6A",
+  "set": 6.0,
+  "title": "Anchor shapes",
+  "note": "(R U2' R' F R' F' R U' R U2' R')"
+ },
+ {
+  "ref": "N5",
+  "row": 5,
+  "col": 14,
+  "name": "7A",
+  "set": 7.0,
+  "title": "T shapes",
+  "note": "(R U R' U' R' F R F')"
+ },
+ {
+  "ref": "P5",
+  "row": 5,
+  "col": 16,
+  "name": "8A+",
+  "set": 8.0,
+  "title": "C shapes",
+  "note": "(R' U' R' F R F' U R)"
+ },
+ {
+  "ref": "Q5",
+  "row": 5,
+  "col": 17,
+  "name": "8A-",
+  "set": 8.0,
+  "title": "C shapes",
+  "note": "(R' U2' F' U F U R)\ny2' (R U R bR' R' bR U' R')"
+ },
+ {
+  "ref": "R5",
+  "row": 5,
+  "col": 18,
+  "name": "9A+",
+  "set": 9.0,
+  "title": "S shapes",
+  "note": "(R' F R U R' U' F' U R)"
+ },
+ {
+  "ref": "S5",
+  "row": 5,
+  "col": 19,
+  "name": "9A-",
+  "set": 9.0,
+  "title": "S shapes",
+  "note": "(R U R' F' U' F U R U2' R')\n(R BR' R' U' R U BR U' R')"
+ },
+ {
+  "ref": "T5",
+  "row": 5,
+  "col": 20,
+  "name": "10A+",
+  "set": 10.0,
+  "title": "Pi shapes",
+  "note": "(R U R' U2 R U' R' U2' R' F R F')"
+ },
+ {
+  "ref": "U5",
+  "row": 5,
+  "col": 21,
+  "name": "10A-",
+  "set": 10.0,
+  "title": "Pi shapes",
+  "note": "(R' F' U' F U2' R U R' U2 R)"
+ },
+ {
+  "ref": "V5",
+  "row": 5,
+  "col": 22,
+  "name": "11A+",
+  "set": 11.0,
+  "title": "Y shapes",
+  "note": "(R' U' F' U' F R2 U R2' U R2 U2' R')\n(R' U2' R' F R2 U R' U R U2' R' F' R)\n"
+ },
+ {
+  "ref": "W5",
+  "row": 5,
+  "col": 23,
+  "name": "11A-",
+  "set": 11.0,
+  "title": "Y shapes",
+  "note": "(R U2 R' U R' F' U' F U R2 U2 R')\ny2 (L R' F R U R' U' F' L' U R)"
+ },
+ {
+  "ref": "X5",
+  "row": 5,
+  "col": 24,
+  "name": "12+",
+  "set": 12.0,
+  "title": "Hammerhead shapes",
+  "note": "(F R U' R' U2 R U R' U R U' R' F')\ny (R U2 R' U R U' BR U' BR' U' R')\ny2 (R U R' U2' R' F' U' F U R2 U R')"
+ },
+ {
+  "ref": "Y5",
+  "row": 5,
+  "col": 25,
+  "name": "12-",
+  "set": 12.0,
+  "title": "Hammerhead shapes",
+  "note": "(R' U2' R U' R' U F' U F U R)"
+ },
+ {
+  "ref": "Z5",
+  "row": 5,
+  "col": 26,
+  "name": "13+",
+  "set": 13.0,
+  "title": "W shapes",
+  "note": "(R' F R U2 R' F' R F U2' F')"
+ },
+ {
+  "ref": "AA5",
+  "row": 5,
+  "col": 27,
+  "name": "13-",
+  "set": 13.0,
+  "title": "W shapes",
+  "note": "(F R' F' U2' F R F' R' U2 R)\ny2' (R' F R U2 R' F' R U' F' U' F)"
+ },
+ {
+  "ref": "AB5",
+  "row": 5,
+  "col": 28,
+  "name": "14A+",
+  "set": 14.0,
+  "title": "Duck head shapes",
+  "note": "(F R U2 R' U2' F')"
+ },
+ {
+  "ref": "AJ13",
+  "row": 13,
+  "col": 36,
+  "name": "18E+",
+  "set": 18.0,
+  "title": "Long block",
+  "note": "(R' F' U2' F R U R' U R)\ny2 (R' U' R U' R' U F' U F R)"
+ },
+ {
+  "ref": "AC5",
+  "row": 5,
+  "col": 29,
+  "name": "14A-",
+  "set": 14.0,
+  "title": "Duck head shapes",
+  "note": "(BR' R' U2' R U2 BR)\ny (R U2' R' F R' F' R2 U2 R')\ny (R' F' U2' F U2 R)\ny2 (F U R U2' R' U' R U R' F')"
+ },
+ {
+  "ref": "AK13",
+  "row": 13,
+  "col": 37,
+  "name": "18E-",
+  "set": 18.0,
+  "title": "Long block",
+  "note": "(R' F' U' F U' R U R' U R)\ny2' (R U R' U R U' BR U' BR' R')"
+ },
+ {
+  "ref": "AD5",
+  "row": 5,
+  "col": 30,
+  "name": "15A+",
+  "set": 15.0,
+  "title": "Megaphone shapes",
+  "note": "(R' F R U R' F' R F U' F')"
+ },
+ {
+  "ref": "AL13",
+  "row": 13,
+  "col": 38,
+  "name": "19E+",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "(F U R U' R U R' U R U2' R2' F')\n(R U R' U R U' R' U R U' R' U' R' F R F')"
+ },
+ {
+  "ref": "AE5",
+  "row": 5,
+  "col": 31,
+  "name": "15A-",
+  "set": 15.0,
+  "title": "Megaphone shapes",
+  "note": "(F R' F' U' F R F' R' U R)\ny' x' (R U' R' F' R U R' U' F U)"
+ },
+ {
+  "ref": "AM13",
+  "row": 13,
+  "col": 39,
+  "name": "19E-",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "(R' U' R' F R2 U' R' U2 R U R' F' R)\ny' (R' F R U' R' U2' R U R2' F' R U R)"
+ },
+ {
+  "ref": "AF5",
+  "row": 5,
+  "col": 32,
+  "name": "16A+",
+  "set": 16.0,
+  "title": "Claw shapes",
+  "note": "(R' F R2 U R' U R U2' R2' F' R)"
+ },
+ {
+  "ref": "AN13",
+  "row": 13,
+  "col": 40,
+  "name": "20E+",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(F R U R' U' R U2 R' U' R U' R' F')"
+ },
+ {
+  "ref": "AG5",
+  "row": 5,
+  "col": 33,
+  "name": "16A-",
+  "set": 16.0,
+  "title": "Claw shapes",
+  "note": "(R' U2' R' F R F' R U' R' U2' R)\ny' (R bR' R2' U' R U' R' U2 R2 bR R')"
+ },
+ {
+  "ref": "AO13",
+  "row": 13,
+  "col": 41,
+  "name": "20E-",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(R' U2' R F U R' U R2 U2' R' F')"
+ },
+ {
+  "ref": "AH5",
+  "row": 5,
+  "col": 34,
+  "name": "17A+",
+  "set": 17.0,
+  "title": "Rabbit shapes",
+  "note": "(R' U2' R' F R F' U2 R)"
+ },
+ {
+  "ref": "AP13",
+  "row": 13,
+  "col": 42,
+  "name": "21E+",
+  "set": 21.0,
+  "title": "Line shapes",
+  "note": "(BR' R' U' R U R' U2' R U2 BR)"
+ },
+ {
+  "ref": "AI5",
+  "row": 5,
+  "col": 35,
+  "name": "17A-",
+  "set": 17.0,
+  "title": "Rabbit shapes",
+  "note": "(F U R U2' R' U2 R U R' F')\ny' (R U2 R BR' R' BR U2' R')\ny' (R U2 R' U F R' F' R2 U2 R')"
+ },
+ {
+  "ref": "AQ13",
+  "row": 13,
+  "col": 43,
+  "name": "21E-",
+  "set": 21.0,
+  "title": "Line shapes",
+  "note": "(F R U R' U' R U2 R' U2' F')"
+ },
+ {
+  "ref": "AJ5",
+  "row": 5,
+  "col": 36,
+  "name": "18A",
+  "set": 18.0,
+  "title": "Long block",
+  "note": "(R' F U R U' R2' F' R2 U R' U' R)\n(R' F R U R U' R2' F' R2 U' R' U R U R')"
+ },
+ {
+  "ref": "AL5",
+  "row": 5,
+  "col": 38,
+  "name": "19A+",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "(F U R U' R' U R U R' U2' F')\ny (BR' U2' R' U R U R' U' R U BR)"
+ },
+ {
+  "ref": "AM5",
+  "row": 5,
+  "col": 39,
+  "name": "19A-",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "(F U2 R U' R' U' R U R' U' F')\ny (BR' U' R' U R U' R' U' R U2 BR)"
+ },
+ {
+  "ref": "AN5",
+  "row": 5,
+  "col": 40,
+  "name": "20A+",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(BR' R' U2' R U2 R' U' R U BR)\ny (R' F' U' F R2 U2' R2' U2' R2 U' R')\ny' (R' U2' F R' F' R F R' F' R U2 R)"
+ },
+ {
+  "ref": "AO5",
+  "row": 5,
+  "col": 41,
+  "name": "20A-",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(F R U2 R' U2' R U R' U' F')"
+ },
+ {
+  "ref": "AP5",
+  "row": 5,
+  "col": 42,
+  "name": "21A+",
+  "set": 21.0,
+  "title": "Line shapes",
+  "note": "(F U2 R U2' R' U R U' R' F')"
+ },
+ {
+  "ref": "AQ5",
+  "row": 5,
+  "col": 43,
+  "name": "21A-",
+  "set": 21.0,
+  "title": "Line shapes",
+  "note": "(BR' U2' R' U2 R U' R' U R BR)"
+ },
+ {
+  "ref": "AR5",
+  "row": 5,
+  "col": 44,
+  "name": "22A",
+  "set": 22.0,
+  "title": "Flower shapes",
+  "note": "(R U2 R2' F R F' R U2' R')"
+ },
+ {
+  "ref": "AT5",
+  "row": 5,
+  "col": 46,
+  "name": "23A",
+  "set": 23.0,
+  "title": "Chandelier shapes",
+  "note": "(R U2 R' U R U' R' U2' R' F R F')"
+ },
+ {
+  "ref": "AV5",
+  "row": 5,
+  "col": 48,
+  "name": "24A+",
+  "set": 24.0,
+  "title": "P shapes",
+  "note": "(F U R U' R' F')"
+ },
+ {
+  "ref": "AW5",
+  "row": 5,
+  "col": 49,
+  "name": "24A-",
+  "set": 24.0,
+  "title": "P shapes",
+  "note": "(R' U' F' U F R)\ny' (BR' U' R' U R BR)\ny (R' U' F R' F' R U R)"
+ },
+ {
+  "ref": "AX5",
+  "row": 5,
+  "col": 50,
+  "name": "25A+",
+  "set": 25.0,
+  "title": "E shapes",
+  "note": "(F R U R2' U' F' U F R F')"
+ },
+ {
+  "ref": "AY5",
+  "row": 5,
+  "col": 51,
+  "name": "25A-",
+  "set": 25.0,
+  "title": "E shapes",
+  "note": "(R U R2' F' U' F U R2 U2' R')\ny (R' U' L F R' F' R L' U R)\ny (R' F' U' F2 U R U' R' F' R)"
+ },
+ {
+  "ref": "AZ5",
+  "row": 5,
+  "col": 52,
+  "name": "26A+",
+  "set": 26.0,
+  "title": "Sprinter shapes",
+  "note": "(R U R' U R' F R F' U R U2 R')"
+ },
+ {
+  "ref": "BA5",
+  "row": 5,
+  "col": 53,
+  "name": "26A-",
+  "set": 26.0,
+  "title": "Sprinter shapes",
+  "note": "(F R' U2' R F R' F' U2 R F')"
+ },
+ {
+  "ref": "BB5",
+  "row": 5,
+  "col": 54,
+  "name": "27A+",
+  "set": 27.0,
+  "title": "Eagle shapes",
+  "note": "(BL' F R' F' R U R U' R' BL)\n(F R' F R2 U' R' U' R U R' F2')\ny2' (R U2 R' U F' U' F U R U2 R')"
+ },
+ {
+  "ref": "BC5",
+  "row": 5,
+  "col": 55,
+  "name": "27A-",
+  "set": 27.0,
+  "title": "Eagle shapes",
+  "note": "(L BR' R BR R' U' R' U R L')\ny2 (R2' U' R F R' U R2 U' R' F' R)\n"
+ },
+ {
+  "ref": "BD5",
+  "row": 5,
+  "col": 56,
+  "name": "28+",
+  "set": 28.0,
+  "title": "Big block",
+  "note": "x' (DR R2 U' R' U R' DR')"
+ },
+ {
+  "ref": "BE5",
+  "row": 5,
+  "col": 57,
+  "name": "28-",
+  "set": 28.0,
+  "title": "Big block",
+  "note": "(BR' R2' F R F' R BR)\ny' x' (L' U2' R U R' U L)\ny2' (R' U2' F R' F' R U2 R)"
+ },
+ {
+  "ref": "BF5",
+  "row": 5,
+  "col": 58,
+  "name": "29+",
+  "set": 29.0,
+  "title": "Lobster shapes",
+  "note": "(F U2 R U' R' U R U2' R' F')"
+ },
+ {
+  "ref": "BG5",
+  "row": 5,
+  "col": 59,
+  "name": "29-",
+  "set": 29.0,
+  "title": "Lobster shapes",
+  "note": "(BR' U2' R' U R U' R' U2 R BR)\n(R U2' R' U' R U R' F' U' F R U2' R')"
+ },
+ {
+  "ref": "BH5",
+  "row": 5,
+  "col": 60,
+  "name": "30A+",
+  "set": 30.0,
+  "title": "Lightning shapes",
+  "note": "(F U2 R U2' R' F')"
+ },
+ {
+  "ref": "BP13",
+  "row": 13,
+  "col": 68,
+  "name": "34E+",
+  "set": 34.0,
+  "title": "Human shapes",
+  "note": "(F R' F' R U2 R' U' R2 U' R2' U2 R)"
+ },
+ {
+  "ref": "BI5",
+  "row": 5,
+  "col": 61,
+  "name": "30A-",
+  "set": 30.0,
+  "title": "Lightning shapes",
+  "note": "(BR' U2' R' U2 R BR)\ny (R' U2' F' U2 F R)"
+ },
+ {
+  "ref": "BQ13",
+  "row": 13,
+  "col": 69,
+  "name": "34E-",
+  "set": 34.0,
+  "title": "Human shapes",
+  "note": "(F R' F' R U R U' R2' U2' R U R' U R)\ny' (BR' R BR R' U2' R U R2' U R2 U2' R')"
+ },
+ {
+  "ref": "BJ5",
+  "row": 5,
+  "col": 62,
+  "name": "31A+",
+  "set": 31.0,
+  "title": "Cobra shapes",
+  "note": "(F R' F' R U2' R U2 R')\n(L F R' F R F2' L)"
+ },
+ {
+  "ref": "BR13",
+  "row": 13,
+  "col": 70,
+  "name": "35E+",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "(R' U' R' F R F' R' F R F' U R)\ny2' (L BR' R' U' R U R' U' R U BR L')"
+ },
+ {
+  "ref": "BK5",
+  "row": 5,
+  "col": 63,
+  "name": "31A-",
+  "set": 31.0,
+  "title": "Cobra shapes",
+  "note": "(BR' R' F R' F' R2 BR)\ny (R U2' R' U2 R' F R F')"
+ },
+ {
+  "ref": "BS13",
+  "row": 13,
+  "col": 71,
+  "name": "35E-",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "(BL' F R U R' U' R U R' U' F' BL)\n(F R' F' U2' R U R' U R2 U2' R')"
+ },
+ {
+  "ref": "BL5",
+  "row": 5,
+  "col": 64,
+  "name": "32A+",
+  "set": 32.0,
+  "title": "Hand shapes",
+  "note": "(R U R' U' R' F R2 U R' U' F')"
+ },
+ {
+  "ref": "B7",
+  "row": 7,
+  "col": 2,
+  "name": "1B",
+  "set": 1.0,
+  "title": "EO",
+  "note": "(L F R' F' R U R U' R' L')"
+ },
+ {
+  "ref": "BT13",
+  "row": 13,
+  "col": 72,
+  "name": "36E+",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(L F R U R' U' R U R' U' F' L')\ny' (R U2 R' U R U' R2' F R F' R U2' R')"
+ },
+ {
+  "ref": "BM5",
+  "row": 5,
+  "col": 65,
+  "name": "32A-",
+  "set": 32.0,
+  "title": "Hand shapes",
+  "note": "(R' U' R U R BR' R2' U' R U BR)\ny' (R U R' U F' U F U' R U2' R')"
+ },
+ {
+  "ref": "BU13",
+  "row": 13,
+  "col": 73,
+  "name": "36E-",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(BL' BR' R' U' R U R' U' R U BR BL)\ny2 (R U2' R' U F' U' F U2 R' F R F')"
+ },
+ {
+  "ref": "BN5",
+  "row": 5,
+  "col": 66,
+  "name": "33A+",
+  "set": 33.0,
+  "title": "Magic lamp shapes",
+  "note": "(F U R U' R' F' R' U2' R U R' U R)"
+ },
+ {
+  "ref": "D7",
+  "row": 7,
+  "col": 4,
+  "name": "2B",
+  "set": 2.0,
+  "title": "2 corner CO",
+  "note": "(R bR R' F R bR' R' F')\ny2 (F R U2 R' U' R U' R' F')"
+ },
+ {
+  "ref": "BV13",
+  "row": 13,
+  "col": 74,
+  "name": "37E+",
+  "set": 37.0,
+  "title": "L shapes",
+  "note": "(F R' F' R U2' R U2' R' U R U2' R')"
+ },
+ {
+  "ref": "BO5",
+  "row": 5,
+  "col": 67,
+  "name": "33A-",
+  "set": 33.0,
+  "title": "Magic lamp shapes",
+  "note": "(R' U' R U' R' U F' U' F R U R' U R)"
+ },
+ {
+  "ref": "BW13",
+  "row": 13,
+  "col": 75,
+  "name": "37E-",
+  "set": 37.0,
+  "title": "L shapes",
+  "note": "(R' U' R U' R' U F' U' F U2 R)\n(R U2' R' U F' U' F U2' R U' R')"
+ },
+ {
+  "ref": "BP5",
+  "row": 5,
+  "col": 68,
+  "name": "34A",
+  "set": 34.0,
+  "title": "Human shapes",
+  "note": "(F R' F' R U R U R' U R U' R' U R U2 R')\n(F R2 U R' U R' U' R U R' U' R2 U' R2' F)\n(L' U2 R U2' R2' L F R F' R U2 R')"
+ },
+ {
+  "ref": "F7",
+  "row": 7,
+  "col": 6,
+  "name": "3B+",
+  "set": 3.0,
+  "title": "3 corner CO",
+  "note": "(R U2 R' U' R U' R')\ny' (R' U' R U2' R' U2' R)"
+ },
+ {
+  "ref": "G7",
+  "row": 7,
+  "col": 7,
+  "name": "3B-",
+  "set": 3.0,
+  "title": "3 corner CO",
+  "note": "(R' U2' R U R' U R)\ny (R U R' U2 R U2 R')"
+ },
+ {
+  "ref": "BR5",
+  "row": 5,
+  "col": 70,
+  "name": "35A+",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "x' (DR R U' R U R' U' R U R2' DR')"
+ },
+ {
+  "ref": "H7",
+  "row": 7,
+  "col": 8,
+  "name": "4B",
+  "set": 4.0,
+  "title": "4 corner CO",
+  "note": "(R' U2' R U R' U' R U R' U R)\ny2' (R U2 R' U' R U R' U' R U' R')\ny' (BL R' U2' R U R' U R BL')"
+ },
+ {
+  "ref": "BS5",
+  "row": 5,
+  "col": 71,
+  "name": "35A-",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "(F R' F' R U R U R' U' R U' R')"
+ },
+ {
+  "ref": "BT5",
+  "row": 5,
+  "col": 72,
+  "name": "36A+",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(F U2' F' U' R' F R U2' R' F' R)"
+ },
+ {
+  "ref": "BU5",
+  "row": 5,
+  "col": 73,
+  "name": "36A-",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(R U R' U2 R' F R F' R U2 R')"
+ },
+ {
+  "ref": "BV5",
+  "row": 5,
+  "col": 74,
+  "name": "37A+",
+  "set": 37.0,
+  "title": "L shapes",
+  "note": "(R' U2' F R' F' R2 U R' U R)"
+ },
+ {
+  "ref": "L7",
+  "row": 7,
+  "col": 12,
+  "name": "6B",
+  "set": 6.0,
+  "title": "Anchor shapes",
+  "note": "(F R U' R' U2 R U R' F')"
+ },
+ {
+  "ref": "BW5",
+  "row": 5,
+  "col": 75,
+  "name": "37A-",
+  "set": 37.0,
+  "title": "L shapes",
+  "note": "(R U2' R2' F R F' U2' R U' R')\n(R U2 BR' R BR R2' U' R U' R')\ny2 (R U2' R2' F' U' F U R U2' R U' R')"
+ },
+ {
+  "ref": "N7",
+  "row": 7,
+  "col": 14,
+  "name": "7B",
+  "set": 7.0,
+  "title": "T shapes",
+  "note": "(F R U R' U' F')\ny (R' F' U' F U R)"
+ },
+ {
+  "ref": "P7",
+  "row": 7,
+  "col": 16,
+  "name": "8B+",
+  "set": 8.0,
+  "title": "C shapes",
+  "note": "(R U R2' U' R' F R U R U' F')\n(R U R' U' BR' R' F R F' BR)"
+ },
+ {
+  "ref": "Q7",
+  "row": 7,
+  "col": 17,
+  "name": "8B-",
+  "set": 8.0,
+  "title": "C shapes",
+  "note": "(F R U R' U' R U R' U R U2' R' F')\n(R' U' R U F R BR' R' BR F')\ny2 (F R2 U R' U R' U' R2 U' R2' F')"
+ },
+ {
+  "ref": "R7",
+  "row": 7,
+  "col": 18,
+  "name": "9B+",
+  "set": 9.0,
+  "title": "S shapes",
+  "note": "(R' U' F' U' F U2 R)\ny (BL' R U R' U' R' F R F' BL')"
+ },
+ {
+  "ref": "S7",
+  "row": 7,
+  "col": 19,
+  "name": "9B-",
+  "set": 9.0,
+  "title": "S shapes",
+  "note": "(F U R U R' U2' F')"
+ },
+ {
+  "ref": "T7",
+  "row": 7,
+  "col": 20,
+  "name": "10B+",
+  "set": 10.0,
+  "title": "Pi shapes",
+  "note": "(R U' R' U2' R' F R F' U2 R U R')"
+ },
+ {
+  "ref": "U7",
+  "row": 7,
+  "col": 21,
+  "name": "10B-",
+  "set": 10.0,
+  "title": "Pi shapes",
+  "note": "(R U2 R' U R' F R F' R U2 R')"
+ },
+ {
+  "ref": "V7",
+  "row": 7,
+  "col": 22,
+  "name": "11B+",
+  "set": 11.0,
+  "title": "Y shapes",
+  "note": "(R' U2' R' F R F' R U R' U R)"
+ },
+ {
+  "ref": "W7",
+  "row": 7,
+  "col": 23,
+  "name": "11B-",
+  "set": 11.0,
+  "title": "Y shapes",
+  "note": "(R' U' R' L F R F' L' U R)\ny2 (R U2' R' U' R' F R F' U R U2 R')"
+ },
+ {
+  "ref": "AB7",
+  "row": 7,
+  "col": 28,
+  "name": "14B+",
+  "set": 14.0,
+  "title": "Duck head shapes",
+  "note": "(R' U2 R U2 R' F' U F R)"
+ },
+ {
+  "ref": "AC7",
+  "row": 7,
+  "col": 29,
+  "name": "14B-",
+  "set": 14.0,
+  "title": "Duck head shapes",
+  "note": "(R' F' U' F R U2' R' U2' R)"
+ },
+ {
+  "ref": "AD7",
+  "row": 7,
+  "col": 30,
+  "name": "15B+",
+  "set": 15.0,
+  "title": "Megaphone shapes",
+  "note": "(L' F U R U R' U2' F' L)\ny2 (R' U2 R U R' F R' F' R U2 R)\n"
+ },
+ {
+  "ref": "AL15",
+  "row": 15,
+  "col": 38,
+  "name": "19F+",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "(R U2' R' U2' R U R' U2' R' F R F')\ny (R U2 R2' U' R2 U' R' U2 R BR' R' BR)"
+ },
+ {
+  "ref": "AE7",
+  "row": 7,
+  "col": 31,
+  "name": "15B-",
+  "set": 15.0,
+  "title": "Megaphone shapes",
+  "note": "(F R' F' U' F R F' R' U' R U R' U R)\ny' (R2' F R F' R U R' F' U' F U' R)\ny' (R U2 R' U' R U' R' F R' F' R U R U' R')"
+ },
+ {
+  "ref": "AM15",
+  "row": 15,
+  "col": 39,
+  "name": "19F-",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "(R' U2' R2 U R2' U R U2' R' F R F')"
+ },
+ {
+  "ref": "AF7",
+  "row": 7,
+  "col": 32,
+  "name": "16B+",
+  "set": 16.0,
+  "title": "Claw shapes",
+  "note": "(F R U2 R' U' F R' F' R U' F')"
+ },
+ {
+  "ref": "AN15",
+  "row": 15,
+  "col": 40,
+  "name": "20F+",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(R U2' R' U' R U' R' U' R' F R F')\ny2 (R U R' U R U2' R2' U' F' U F R)"
+ },
+ {
+  "ref": "AG7",
+  "row": 7,
+  "col": 33,
+  "name": "16B-",
+  "set": 16.0,
+  "title": "Claw shapes",
+  "note": "(R' U' R U' R' F U R U' R' F' U2 R)\ny2 (R' F' U2' F U' R U R' U2 R)"
+ },
+ {
+  "ref": "AO15",
+  "row": 15,
+  "col": 41,
+  "name": "20F-",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(R' U' R F U' R' U2 R U2 R U' R' F')"
+ },
+ {
+  "ref": "AH7",
+  "row": 7,
+  "col": 34,
+  "name": "17B+",
+  "set": 17.0,
+  "title": "Rabbit shapes",
+  "note": "(BL' F R U R' U' F' BL)\ny (BR' R' F' U' F U R BR)\ny2 (R' U2' R U R' F' U' F U2 R)"
+ },
+ {
+  "ref": "AI7",
+  "row": 7,
+  "col": 35,
+  "name": "17B-",
+  "set": 17.0,
+  "title": "Rabbit shapes",
+  "note": "(L BR' R' U' R U BR L')\n(L F R U R' U' F' L')\ny2' (R U2' R' F' U' F U R U2 R')"
+ },
+ {
+  "ref": "AJ7",
+  "row": 7,
+  "col": 36,
+  "name": "18B",
+  "set": 18.0,
+  "title": "Long block",
+  "note": "(F R' F' L F R2 U R' U' F' L')\ny (R' F' U' F U R2 U2 R' U R U2 R')\ny' (R' U2' R F R' F' U2 R U2' R U2 R')"
+ },
+ {
+  "ref": "AL7",
+  "row": 7,
+  "col": 38,
+  "name": "19B+",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "(R U2' R' F' U' F U' R U' R')"
+ },
+ {
+  "ref": "AM7",
+  "row": 7,
+  "col": 39,
+  "name": "19B-",
+  "set": 19.0,
+  "title": "Fox head shapes",
+  "note": "(R' U2' R U R' F' U' F R U R' U R)"
+ },
+ {
+  "ref": "AN7",
+  "row": 7,
+  "col": 40,
+  "name": "20B+",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(R' F' U' F U R U2' R' U2' R U R' U R)\ny' (F R U R' U' F' R U R' U2 R U2 R')\ny (F R U R' U R U' R' F R' F' R U' F')"
+ },
+ {
+  "ref": "AO7",
+  "row": 7,
+  "col": 41,
+  "name": "20B-",
+  "set": 20.0,
+  "title": "Scorpion shapes",
+  "note": "(R' F' U' F U R2 U2 R' U' R U' R')"
+ },
+ {
+  "ref": "AP7",
+  "row": 7,
+  "col": 42,
+  "name": "21B+",
+  "set": 21.0,
+  "title": "Line shapes",
+  "note": "(R' U2' F' U F U' R U R' U R)"
+ },
+ {
+  "ref": "AQ7",
+  "row": 7,
+  "col": 43,
+  "name": "21B-",
+  "set": 21.0,
+  "title": "Line shapes",
+  "note": "(R' F' U' F R U2' R' U2 R U' R' U2 R)"
+ },
+ {
+  "ref": "AR7",
+  "row": 7,
+  "col": 44,
+  "name": "22B",
+  "set": 22.0,
+  "title": "Flower shapes",
+  "note": "(F R' F' R U R U' R')"
+ },
+ {
+  "ref": "AT7",
+  "row": 7,
+  "col": 46,
+  "name": "23B",
+  "set": 23.0,
+  "title": "Chandelier shapes",
+  "note": "(R U2' R' U' F R' F' R U' R U' R')"
+ },
+ {
+  "ref": "AV7",
+  "row": 7,
+  "col": 48,
+  "name": "24B+",
+  "set": 24.0,
+  "title": "P shapes",
+  "note": "(R U BR' U' R' U R BR R')\ny (F U R' U' F' U F R F')"
+ },
+ {
+  "ref": "AW7",
+  "row": 7,
+  "col": 49,
+  "name": "24B-",
+  "set": 24.0,
+  "title": "P shapes",
+  "note": "(R' U' F U R U' R' F' R)"
+ },
+ {
+  "ref": "AX7",
+  "row": 7,
+  "col": 50,
+  "name": "25B+",
+  "set": 25.0,
+  "title": "E shapes",
+  "note": "(R' U2 R U2 R' F R' F' R U R)"
+ },
+ {
+  "ref": "AY7",
+  "row": 7,
+  "col": 51,
+  "name": "25B-",
+  "set": 25.0,
+  "title": "E shapes",
+  "note": "(F R' F' R U2 R U R' U' R U2' R')\ny2' (F R U2 R' F' U' F R U' R' F')"
+ },
+ {
+  "ref": "AZ7",
+  "row": 7,
+  "col": 52,
+  "name": "26B+",
+  "set": 26.0,
+  "title": "Sprinter shapes",
+  "note": "(F U R U' BR R' F' R BR' R')\n(F U R U2' R' U' R U2 R' U' F')"
+ },
+ {
+  "ref": "BA7",
+  "row": 7,
+  "col": 53,
+  "name": "26B-",
+  "set": 26.0,
+  "title": "Sprinter shapes",
+  "note": "(BR' U' R' U F' R BR R' F R)\n(BR' U' R' U2 R U R' U2' R U BR)\ny (R' U2' R2 U R' U' R' U2 F R F')"
+ },
+ {
+  "ref": "BB7",
+  "row": 7,
+  "col": 54,
+  "name": "27B+",
+  "set": 27.0,
+  "title": "Eagle shapes",
+  "note": "(F R' F' R U2' R U' R' U R U2 R')"
+ },
+ {
+  "ref": "BC7",
+  "row": 7,
+  "col": 55,
+  "name": "27B-",
+  "set": 27.0,
+  "title": "Eagle shapes",
+  "note": "(R' F R F' R' F R F' R U R' U' R U R')\n(F R' F' U2 R U R U' R2' U2' R)"
+ },
+ {
+  "ref": "BH7",
+  "row": 7,
+  "col": 60,
+  "name": "30B+",
+  "set": 30.0,
+  "title": "Lightning shapes",
+  "note": "(BR' L R' F R' F' R2 L' BR)"
+ },
+ {
+  "ref": "BI7",
+  "row": 7,
+  "col": 61,
+  "name": "30B-",
+  "set": 30.0,
+  "title": "Lightning shapes",
+  "note": "(R U' R' U R U' R' U' F R' F' R2 U R')\ny2 (BL' F R BR' R BR R2' F' BL)"
+ },
+ {
+  "ref": "BJ7",
+  "row": 7,
+  "col": 62,
+  "name": "31B+",
+  "set": 31.0,
+  "title": "Cobra shapes",
+  "note": "(F U R U R' U' R U' R' F')\n(BL' F U R U' R' F' BL)"
+ },
+ {
+  "ref": "BR15",
+  "row": 15,
+  "col": 70,
+  "name": "35F+",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "(F' U' F2 R' F' R U' R' F R F')\ny (R' U2' F U R U2' R' U2' R U R' F' R)"
+ },
+ {
+  "ref": "BK7",
+  "row": 7,
+  "col": 63,
+  "name": "31B-",
+  "set": 31.0,
+  "title": "Cobra shapes",
+  "note": "(BR' U' R' U' R U R' U R BR)\n(L BR' U' R' U R BR L')"
+ },
+ {
+  "ref": "BS15",
+  "row": 15,
+  "col": 71,
+  "name": "35F-",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "(R U R2' F R F' U F R' F' R)"
+ },
+ {
+  "ref": "BL7",
+  "row": 7,
+  "col": 64,
+  "name": "32B+",
+  "set": 32.0,
+  "title": "Hand shapes",
+  "note": "(F U F' R' F R U' R' F' R) \ny' (R U R' U R' F R F' R U2' R')"
+ },
+ {
+  "ref": "BT15",
+  "row": 15,
+  "col": 72,
+  "name": "36F+",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(R U2' R2' U2' R U' R' U2' F R F')\ny' (F R U R' U R U2 R' U2' R U R' F')\ny2' (F U R U' R' F' R U2 R' U R U2 R')\ny2' (F R2 U R' U R' U' R U R U2' R2' F')"
+ },
+ {
+  "ref": "BM7",
+  "row": 7,
+  "col": 65,
+  "name": "32B-",
+  "set": 32.0,
+  "title": "Hand shapes",
+  "note": "(R U2' R2' F R F' R U2 R')"
+ },
+ {
+  "ref": "BU15",
+  "row": 15,
+  "col": 73,
+  "name": "36F-",
+  "set": 36.0,
+  "title": "Parrot shapes",
+  "note": "(F' R U2' R2' F R F' R U2 R' F)"
+ },
+ {
+  "ref": "BN7",
+  "row": 7,
+  "col": 66,
+  "name": "33B+",
+  "set": 33.0,
+  "title": "Magic lamp shapes",
+  "note": "(F U R U R' U' R U R' U' R U' R' F')"
+ },
+ {
+  "ref": "D9",
+  "row": 9,
+  "col": 4,
+  "name": "2C",
+  "set": 2.0,
+  "title": "2 corner CO",
+  "note": "(R U2' R' U' R U2' R')\n(R' U2 R U R' U2 R)\ny (R U2 R' U R U2 R')\ny' (R' U2' R U' R' U2' R)"
+ },
+ {
+  "ref": "BO7",
+  "row": 7,
+  "col": 67,
+  "name": "33B-",
+  "set": 33.0,
+  "title": "Magic lamp shapes",
+  "note": "(BR' U' R' U' R U R' U' R U R' U R BR)"
+ },
+ {
+  "ref": "BP7",
+  "row": 7,
+  "col": 68,
+  "name": "34B",
+  "set": 34.0,
+  "title": "Human shapes",
+  "note": "(F R' F' R U2' R U' R' U' R U' R')\ny2 (R U2 R' F' U2 F U' R U2 R')\n(R' U F' U' F R U R' U R U R' U R)"
+ },
+ {
+  "ref": "BR7",
+  "row": 7,
+  "col": 70,
+  "name": "35B+",
+  "set": 35.0,
+  "title": "Axe shapes",
+  "note": "(R' F R F' U' F R' F' R2 U' R')"
+ },
+ {
+  "ref": "H9",
+  "row": 9,
+  "col": 8,
+  "name": "4C",
+  "set": 4.0,
+  "title": "4 corner CO",
+  "note": "(R U R' U R U R' U' R U2' R')\n(R' U' R U' R' U' R U R' U2 R)"
+ }
+]

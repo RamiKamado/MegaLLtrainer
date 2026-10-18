@@ -1,0 +1,1059 @@
+[
+ {
+  "ref": "J9",
+  "name": "E3",
+  "img": true,
+  "note": "(L' R U2 R' U' R U R' U' R U R' U' R U' R' L)",
+  "thread": null
+ },
+ {
+  "ref": "L9",
+  "name": "F3+",
+  "img": true,
+  "note": "(R' U2' R U' R U R2' U2 R U2' R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "M9",
+  "name": "F3-",
+  "img": true,
+  "note": "(R U2 R' U R' U' R2 U2' R' U2 R' U R)",
+  "thread": null
+ },
+ {
+  "ref": "R9",
+  "name": "I3+",
+  "img": true,
+  "note": "(R' U2 R2 U2 R' U2' R' U2' R U2 R U R' U2' R U' R')\n(y') (R2 U R2' U R2 U2' R2' U2 y' R2' U' R2 U2' R2' U2' R2)",
+  "thread": null
+ },
+ {
+  "ref": "S9",
+  "name": "I3-",
+  "img": true,
+  "note": "(R U2' R2' U2' R U2 R U2 R' U2' R' U' R U2 R' U R)\n(y) (R2' U' R2 U' R2' U2 R2 U2' y R2 U R2' U2 R2 U2 R2')",
+  "thread": null
+ },
+ {
+  "ref": "T9",
+  "name": "J3+",
+  "img": true,
+  "note": "(R U R' U' R' U2' R U R U R2' U R2 U2 R2' U2' R)\n(R' U R2 U R' U R U2' R' U' R' U' R U2' R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "U9",
+  "name": "J3-",
+  "img": true,
+  "note": "(R U' R2' U' R U' R' U2 R U R U R' U2 R U2' R')\ny2 (F U F' R2' F U' F U' R2 U R2' U F2' R2)",
+  "thread": null
+ },
+ {
+  "ref": "X9",
+  "name": "L3+",
+  "img": true,
+  "note": "(F U2' F' U2' R F R' U' R F' U2' R' U' R U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "Y9",
+  "name": "L3-",
+  "img": true,
+  "note": "(R U R' U' R' U2 R U R U R2' U R U' R U R' U' R U2' R')\n(y2') (R' U2 R U2 F' R' y' R U R' bR U2 R U R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "AF9",
+  "name": "P3+",
+  "img": true,
+  "note": "(F R U' R' U' R U R U2 R' U' R U' R2' F')",
+  "thread": null
+ },
+ {
+  "ref": "AG9",
+  "name": "P3-",
+  "img": true,
+  "note": "(BR' R' U R U R' U' R' U2' R U R' U R2 BR)",
+  "thread": null
+ },
+ {
+  "ref": "AJ9",
+  "name": "R3+",
+  "img": true,
+  "note": "(R U R2' U R U R U' R' U' R U' R2' U' R U' R' U R)",
+  "thread": null
+ },
+ {
+  "ref": "AK9",
+  "name": "R3-",
+  "img": true,
+  "note": "(R' U' R2 U' R' U' R' U R U R' U R2 U R' U R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "AL9",
+  "name": "S3+",
+  "img": true,
+  "note": "(R2 U2' R2' U' R F' R U R2' U' R' F R3 U2' R2')",
+  "thread": null
+ },
+ {
+  "ref": "AM9",
+  "name": "S3-",
+  "img": true,
+  "note": "(R' U' R U' R2' F' R U R U' R' F U R U2' R' U2' R)\ny (R U R2' U R2 U2' R' U' R' U2 R' U' R2 U2' R2' U2' R2)",
+  "thread": null
+ },
+ {
+  "ref": "AN9",
+  "name": "T3+",
+  "img": true,
+  "note": "(R2' U2 R2 U R2' U' R2 U R2' U2 R2)",
+  "thread": null
+ },
+ {
+  "ref": "AV17",
+  "name": "X7+",
+  "img": true,
+  "note": "(R2 U' R2' U' F U F' R2 U2' R2' U R2 U2 R2' F U' F')\n(R U R' U' F' U' F U R U R' U R U2' F R' F' R U R U' R2')",
+  "thread": null
+ },
+ {
+  "ref": "AO9",
+  "name": "T3-",
+  "img": true,
+  "note": "(R2 U2' R2' U' R2 U R2' U' R2 U2' R2')",
+  "thread": null
+ },
+ {
+  "ref": "AW17",
+  "name": "X7-",
+  "img": true,
+  "note": "(R U R2' F' R U2' R U' R' U2' R' F R U R U R' U2' R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "AR9",
+  "name": "V3+",
+  "img": true,
+  "note": "(R U R2 U' R' U' R U R' U' R' U R2' U R U' R)",
+  "thread": null
+ },
+ {
+  "ref": "AS9",
+  "name": "V3-",
+  "img": true,
+  "note": "(R' U2' R U R U' R' F R' U2 R U2' F' R U R')\n(y) (R' U' R2' U R U R' U' R U R U' R2 U' R' U R')",
+  "thread": null
+ },
+ {
+  "ref": "AV9",
+  "name": "X3",
+  "img": true,
+  "note": "(R' U' R U' R' U2 R2 U R' U2 R' U2' R2 U' R' U2 R' U R)\n(y2') (R2 U R2' U R U2' R' U R' U2' R U R' U R2 U R U' R2')\n(y') (R U R2' U2 R2 U2 R2' y' R' U' R U2 R' U' R U bR)",
+  "thread": null
+ },
+ {
+  "ref": "AX9",
+  "name": "Y3+",
+  "img": true,
+  "note": "(y) (R2 U R2' U R2 U2' R2' U2 R2 U R2' U R2 U2' R2')\n(R2 U bR2' U R2' U R2 U' bR2 U2' R2')",
+  "thread": null
+ },
+ {
+  "ref": "AY9",
+  "name": "Y3-",
+  "img": true,
+  "note": "(R2' U' F2 U' R2 U' R2' U F2' U2 R2)\ny' (R2' U' R2 U' R2' U2 R2 U2' R2' U' R2 U' R2' U2 R2)\ny2 (R2' F2' R U2' R U2 R' F R U R' U' R' F R2)",
+  "thread": null
+ },
+ {
+  "ref": "AZ9",
+  "name": "Z3",
+  "img": true,
+  "note": "(R' L' U2 L U R BR F U2' BR' U' F')",
+  "thread": null
+ },
+ {
+  "ref": "F11",
+  "name": "C4+",
+  "img": true,
+  "note": "(R2' U2' R2 U' R2' U2' R2 U' R2' U2 R2 U R2' U2 R2)\n(y2) (R2' U2 R2 bR2' U R2' U' R2 U' bR2 U R2' U2' R2)",
+  "thread": null
+ },
+ {
+  "ref": "G11",
+  "name": "C4-",
+  "img": true,
+  "note": "(R2' U2 R2 U R2' U2 R2 U R2' U2' R2 U' R2' U2' R2)\n(y2') (R2 U2' R2' F2 U' R2 U R2' U F2' U' R2 U2 R2')",
+  "thread": null
+ },
+ {
+  "ref": "L11",
+  "name": "F4+",
+  "img": true,
+  "note": "(R U R' U R2 U2' R2' U2' R U2 R U2 R' U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "M11",
+  "name": "F4-",
+  "img": true,
+  "note": "(R' U' R U' R2' U2 R2 U2 R' U2' R' U2' R U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "R11",
+  "name": "I4+",
+  "img": true,
+  "note": "(R' U' R' U2' F' R U R U' R' F R' U2 R U R)\n(y') (R U2' R' U' R U' R U2 R' U' R U' R2' U R U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "S11",
+  "name": "I4-",
+  "img": true,
+  "note": "(R' U2 R U R' U R' U2' R U R' U R2 U' R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "X11",
+  "name": "L4+",
+  "img": true,
+  "note": "(R U R U R' U R' U R U' R U2' R' U2' R' U' R U2 R')\n(y2) (R' U2 R U' R' U2' R' U2' R U' R U R' U R' U R U R)",
+  "thread": null
+ },
+ {
+  "ref": "Y11",
+  "name": "L4-",
+  "img": true,
+  "note": "(R U2' R' U R U2 R U2 R' U R' U' R U' R U' R' U' R')\n(y2) (R' U' R' U' R U' R U' R' U R' U2 R U2 R U R' U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "AF11",
+  "name": "P4+",
+  "img": true,
+  "note": "(F R2 U R' U R U2' R' U' R' U R U R' F')",
+  "thread": null
+ },
+ {
+  "ref": "AG11",
+  "name": "P4-",
+  "img": true,
+  "note": "(BR' R2' U' R U' R' U2 R U R U' R' U' R BR)",
+  "thread": null
+ },
+ {
+  "ref": "AJ11",
+  "name": "R4+",
+  "img": true,
+  "note": "(R' U' R U R' U R2 U R' U R U R' U' R' U' R2 U' R')",
+  "thread": null
+ },
+ {
+  "ref": "AK11",
+  "name": "R4-",
+  "img": true,
+  "note": "(R U R' U' R U' R2' U' R U' R' U' R U R U R2' U R)",
+  "thread": null
+ },
+ {
+  "ref": "AL11",
+  "name": "S4+",
+  "img": true,
+  "note": "(R2' U2' R2 U' R2' U2' R2 U R2' U2 R2 U R2' U2 R2)\n(y') (R2' U2 R2 U' bR2' U R2' U R2 U' bR2 R2' U2' R2)",
+  "thread": null
+ },
+ {
+  "ref": "AM11",
+  "name": "S4-",
+  "img": true,
+  "note": "(R2' U2 R2 U R2' U2 R2 U' R2' U2' R2 U' R2' U2' R2)\n(y) (R2 U2' R2' U F2 U' R2 U' R2' U F2' R2 U2 R2')",
+  "thread": null
+ },
+ {
+  "ref": "AN11",
+  "name": "T4+",
+  "img": true,
+  "note": "(R U R' F' R U R' U' R' F R U' R' F R2 U' R' U' R U R' F')\n(y) (R U R' U2 R2 U2 R2' U R2 U2 R2' U' R U' R')\n(R U R' U R2 U2' R2' U' R2 U2' R2' U2' R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "AO11",
+  "name": "T4-",
+  "img": true,
+  "note": "(R' U' R U2' R2' U2' R2 U' R2' U2' R2 U R' U R)\n(y) (R' U' R U' R2' U2 R2 U R2' U2 R2 U2 R' U R)\n",
+  "thread": null
+ },
+ {
+  "ref": "AR11",
+  "name": "V4+",
+  "img": true,
+  "note": "(R' U R' U' R2 U' R U R U' R' U R U R2' U' R')\ny' (R U R' U' R' U F R U R U' R' F' U R' U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "AS11",
+  "name": "V4-",
+  "img": true,
+  "note": "(R U' R' F U2 R' U2' R F' R U R' U' R' U2 R)\n(y2') (R U' R U R2' U R' U' R' U R U' R' U' R2 U R)",
+  "thread": null
+ },
+ {
+  "ref": "AV11",
+  "name": "X4",
+  "img": true,
+  "note": "(R' U' R2 U' R' U R U' R2' U' R2 U R' U' R U R2' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "F13",
+  "name": "C5+",
+  "img": true,
+  "note": "(R' U2' R F U' R' U' R U F' U R' U2 R)\n(R' U2' R U L U2' R' U' R U2 L' R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "G13",
+  "name": "C5-",
+  "img": true,
+  "note": "(R U2 R' BR' U R U R' U' BR U' R U2' R')\n(F' R U2 R' U F R U' R' U R' F' R U' R U2' R' F)",
+  "thread": null
+ },
+ {
+  "ref": "B5",
+  "name": "A1+",
+  "img": true,
+  "note": "(F' R' F R U' R' F' R2 U R' U' R' F R)",
+  "thread": null
+ },
+ {
+  "ref": "C5",
+  "name": "A1-",
+  "img": true,
+  "note": "(R' F' R U R U' R2' F R U R' F' R F)",
+  "thread": null
+ },
+ {
+  "ref": "D5",
+  "name": "B1+",
+  "img": true,
+  "note": "(R U R' U' R' U2' R U R U' R2' U2 R)\n(y2) (R' U2' R2 U R' U' R' U2 R U R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "L13",
+  "name": "F5+",
+  "img": true,
+  "note": "(R U2 R U2' R' U2' R' U2 R2 U2 R2' U' R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "E5",
+  "name": "B1-",
+  "img": true,
+  "note": "(R' U' R U R U2 R' U' R' U R2 U2' R')\n(y2') (R U2 R2' U' R U R U2' R' U' R' U R)",
+  "thread": null
+ },
+ {
+  "ref": "M13",
+  "name": "F5-",
+  "img": true,
+  "note": "(R' U2' R' U2 R U2 R U2' R2' U2' R2 U R' U R)",
+  "thread": null
+ },
+ {
+  "ref": "F5",
+  "name": "C1+",
+  "img": true,
+  "note": "y2 (R U2 R' U R F U R' U' R F' R' U R U R')\n(R U2 R' U' R U2' R' U R U R2' U' R U' R U R2' U R)\n(y') (R U R' U2' R' U2' R U' R U R2' U2 R U2' R U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "G5",
+  "name": "C1-",
+  "img": true,
+  "note": "(R' U2' R U R' U2 R U' R' U' R2 U R' U R' U' R2 U' R')\n(y') (R' U' R U2 R U2 R' U R' U' R2 U2' R' U2 R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "H5",
+  "name": "D+",
+  "img": true,
+  "note": "(R U2 R' U' R U R' U R U2' R' U2 R U2 R')",
+  "thread": null
+ },
+ {
+  "ref": "I5",
+  "name": "D-",
+  "img": true,
+  "note": "(R' U2' R U R' U' R U' R' U2 R U2' R' U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "J5",
+  "name": "E1",
+  "img": true,
+  "note": "(R U R' U R' U' R F' R U R' U' R' F R2 U' R2' U R)\n(y2) (R' U' R' DR' R U' R' DR R U R' DR' R U R' DR R2)",
+  "thread": null
+ },
+ {
+  "ref": "R13",
+  "name": "I5+",
+  "img": true,
+  "note": "(R' U' R' U2' R F' R U R' U' R' F U2 R U R)\n(R U2 R' U' R2 U R' U R U2' R' U R' U R U2 R')",
+  "thread": null
+ },
+ {
+  "ref": "S13",
+  "name": "I5-",
+  "img": true,
+  "note": "(R' U2' R U R2' U' R U' R' U2 R U' R U' R' U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "L5",
+  "name": "F1+",
+  "img": true,
+  "note": "(R2 U2 R2' U R2 U2 R2')\n(R2' U2 R2 U R2' U2 R2)",
+  "thread": null
+ },
+ {
+  "ref": "M5",
+  "name": "F1-",
+  "img": true,
+  "note": "(R2 U2' R2' U' R2 U2' R2')",
+  "thread": null
+ },
+ {
+  "ref": "N5",
+  "name": "G1+",
+  "img": true,
+  "note": "(R' U2 R2 U2' R' U2 R' U R U2 R' U R2 U2 R2' U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "O5",
+  "name": "G1-",
+  "img": true,
+  "note": "(R U2' R2' U2 R U2' R U' R' U2' R U' R2' U2' R2 U2 R')",
+  "thread": null
+ },
+ {
+  "ref": "P5",
+  "name": "H1+",
+  "img": true,
+  "note": "(R' DR' R U R' DR R U)x3\n(R U2 R' U2 R U' R' U' R U2 R' U R' F' R U R U' R' F)",
+  "thread": null
+ },
+ {
+  "ref": "X13",
+  "name": "L5+",
+  "img": true,
+  "note": "(R' U2' R U R' U R2 U2' R' U' R U R' U2' R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "Q5",
+  "name": "H1-",
+  "img": true,
+  "note": "(R' DR' R U' R' DR R U')x3\n(F' R U R' U' R' F R U' R U2' R' U R U R' U2' R U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "Y13",
+  "name": "L5-",
+  "img": true,
+  "note": "(R U2 R' U' R U' R2' U2 R U R' U' R U2 R' U R)",
+  "thread": null
+ },
+ {
+  "ref": "R5",
+  "name": "I1+",
+  "img": true,
+  "note": "(R U2 R' U R' U' R U F' R U R' U' R' F U R2 U R')\n(R2' U2 R2 U R2' F2 U' R2 U R2' U F2' U R2)",
+  "thread": null
+ },
+ {
+  "ref": "S5",
+  "name": "I1-",
+  "img": true,
+  "note": "(R2 U2' R2' U' R2 bR2' U R2' U' R2 U' bR2 U' R2')",
+  "thread": null
+ },
+ {
+  "ref": "T5",
+  "name": "J1+",
+  "img": true,
+  "note": "(R U R' F' R U R' U' R' F R2 U' R')\n(y2') (R U R2' F' R U R U' R' F R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "U5",
+  "name": "J1-",
+  "img": true,
+  "note": "(F U' R' F R2 U' R' U' R U R' F' R U R' F')",
+  "thread": null
+ },
+ {
+  "ref": "V5",
+  "name": "K1+",
+  "img": true,
+  "note": "(R2' U2 R2 U R2' U' R2 U R2' U' R2 U R2' U2 R2)",
+  "thread": null
+ },
+ {
+  "ref": "W5",
+  "name": "K1-",
+  "img": true,
+  "note": "(R2 U2' R2' U' R2 U R2' U' R2 U R2' U' R2 U2' R2')",
+  "thread": null
+ },
+ {
+  "ref": "X5",
+  "name": "L1",
+  "img": true,
+  "note": "(R' U2 R U R' U R U' R' U2 R U' R U R' U R U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "Z5",
+  "name": "M",
+  "img": true,
+  "note": "(R' U2 R U2 R' U' F R2 U R2' U R2 U2' R2' F' R)\n(y2') (R U R' U2' R' U2' R U R' U R2 U' R' U2 R U' R' U R U' R')\n(y) (R U R' U' R U R' U2' R U R2' U' R U' R' U2 R U2 R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "AB5",
+  "name": "N1+",
+  "img": true,
+  "note": "(R U2 R' F' R U R' U' R' F R2 U2' R') \n(y) (R U2 R2' F' R U R U' R' F R U2' R')\n(y2') (R U2 R U2' R' U' R U2' R' U2 R')",
+  "thread": null
+ },
+ {
+  "ref": "AC5",
+  "name": "N1-",
+  "img": true,
+  "note": "(R' U2 R' U2' R U' R' U2' R U2 R)\ny2 (L' R' U2' R U' R' U2' R U' L)",
+  "thread": null
+ },
+ {
+  "ref": "AL13",
+  "name": "S5+",
+  "img": true,
+  "note": "(R' U2' R U' F U' R' U R U F' R' U2 R)\n(R' U2' R L U2' R' U R U2 L' U' R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "AM13",
+  "name": "S5-",
+  "img": true,
+  "note": "(R U2 R' U BR' U R U' R' U' BR R U2' R')\n(F' R U2 R' U R' F R U' R U R' F' U' R U2' R' F)",
+  "thread": null
+ },
+ {
+  "ref": "AF5",
+  "name": "P1+",
+  "img": true,
+  "note": "(R' F R2 U R' U R U2' R' U R' F' R F U' F')",
+  "thread": null
+ },
+ {
+  "ref": "AG5",
+  "name": "P1-",
+  "img": true,
+  "note": "(R' U2' F' U2 F R2 U2' R' F R' F' R2 U2 R')\ny2 (F R' U' R2 U' R2' U2 R U' F' R' U' F' U F R)",
+  "thread": null
+ },
+ {
+  "ref": "AH5",
+  "name": "Q1+",
+  "img": true,
+  "note": "(R2' U2 R2 U R2' U2 R2 U' R2' U2 R2 U R2' U2 R2)\n(R' U R U R' U2' R y U2' R U' R' U' R U2 R')\n(F' R' F U F' R F U R' U2 R U' R' U' R U2 R' U R)",
+  "thread": null
+ },
+ {
+  "ref": "AI5",
+  "name": "Q1-",
+  "img": true,
+  "note": "(R2 U2' R2' U' R2 U2' R2' U R2 U2' R2' U' R2 U2' R2')\n(R U' R' U' R U2 R' y' U2 R' U R U R' U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "AJ5",
+  "name": "R1+",
+  "img": true,
+  "note": "(R' U2 R U' R2' U2 R2 U R' U' R' U2' R U' R)",
+  "thread": null
+ },
+ {
+  "ref": "AK5",
+  "name": "R1-",
+  "img": true,
+  "note": "(R U2' R' U R2 U2' R2' U' R U R U2 R' U R')",
+  "thread": null
+ },
+ {
+  "ref": "AL5",
+  "name": "S1+",
+  "img": true,
+  "note": "(R' U2' R U R' U R U R U2' R' U2' R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "AM5",
+  "name": "S1-",
+  "img": true,
+  "note": "(R' U' R U2' R' U2' R U R U R' U R U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "AN5",
+  "name": "T1",
+  "img": true,
+  "note": "(R U R' U' R' F R2 U' R' U' R U R' F')",
+  "thread": null
+ },
+ {
+  "ref": "AV13",
+  "name": "X5+",
+  "img": true,
+  "note": "(R' U R U2 R' U2 R U R2' U' R U' R' U' R U2 R' U R2)\n(y2) (R2 U R' U2 R U' R' U' R U' R2' U R U2 R' U2 R U R')",
+  "thread": null
+ },
+ {
+  "ref": "AW13",
+  "name": "X5-",
+  "img": true,
+  "note": "(R2' U' R U2' R' U R U R' U R2 U' R' U2' R U2' R' U' R)\n(y2') (R U' R' U2' R U2' R' U' R2 U R' U R U R' U2' R U' R2')",
+  "thread": null
+ },
+ {
+  "ref": "AP5",
+  "name": "U1+",
+  "img": true,
+  "note": "(R' U' R U' R U R2' U R U' R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "AQ5",
+  "name": "U1-",
+  "img": true,
+  "note": "(R U R' U R' U' R2 U' R' U R' U R) ",
+  "thread": null
+ },
+ {
+  "ref": "AR5",
+  "name": "V1+",
+  "img": true,
+  "note": "(R' U2 R' dR' R U' R' dR R U R U' R' U' R)",
+  "thread": null
+ },
+ {
+  "ref": "AS5",
+  "name": "V1-",
+  "img": true,
+  "note": "(R U2 R2' F R F' R U' R' F' U F R U' R')\n(y2) (R U2' R' U2 R' U2 R U2 R' U R U' R U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "AT5",
+  "name": "W",
+  "img": true,
+  "note": "(R' U2' R' U2 R U2 R U' R2' U2 R2 U2 R' U R)",
+  "thread": null
+ },
+ {
+  "ref": "AV5",
+  "name": "X1",
+  "img": true,
+  "note": "(F U2 R U2' R' U R U R' U2' F' R' U' R U2' R' U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "AX5",
+  "name": "Y1+",
+  "img": true,
+  "note": "(F R U' R' U' R U R' F' R U R' U' R' F R F')",
+  "thread": null
+ },
+ {
+  "ref": "AY5",
+  "name": "Y1-",
+  "img": true,
+  "note": "(F R' F' R U R U' R' F R U' R' U R U R' F')",
+  "thread": null
+ },
+ {
+  "ref": "AZ5",
+  "name": "Z1",
+  "img": true,
+  "note": "(R' U' F R U' R' U' R U2 R' F' R F U' F' R' U2 R)\n(R' U' R' U' R F R' F' U R F' U' F U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "F15",
+  "name": "C6+",
+  "img": true,
+  "note": "(R U' R' U2 R2 U R' U2 R U' R' U' R U' R' U' R')",
+  "thread": null
+ },
+ {
+  "ref": "G15",
+  "name": "C6-",
+  "img": true,
+  "note": "(R' U R U2' R2' U' R U2' R' U R U R' U R U R)",
+  "thread": null
+ },
+ {
+  "ref": "B7",
+  "name": "A2+",
+  "img": true,
+  "note": "(BR' R' U L U' R' U L' U' R2 BR) \n(R' U2' R U' R' F' R U R' U' R' F R U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "C7",
+  "name": "A2-",
+  "img": true,
+  "note": "(BR' R2' U L U' R U L' U' R BR)\ny' (R' U2 R' F' R U R U' R' F R U R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "D7",
+  "name": "B2+",
+  "img": true,
+  "note": "(R2 U R2' U2 R U2' R U R' U' R U' R2' U2 R U R')\n(y2') (R U' R' U2' R2 U R' U R U' R' U2 R' U2' R2 U' R2')",
+  "thread": null
+ },
+ {
+  "ref": "E7",
+  "name": "B2-",
+  "img": true,
+  "note": "(R2' U' R2 U2' R' U2 R' U' R U R' U R2 U2' R' U' R)\n(y2) (R' U R U2 R2' U' R U' R' U R U2' R U2 R2' U R2)",
+  "thread": null
+ },
+ {
+  "ref": "F7",
+  "name": "C2+",
+  "img": true,
+  "note": "(R' U' R U' R U2 R2' U' R2 U' R2' U2' R U R' U2 R) \n(y2) (R' U2' R U' R' U2 R2 U R2' U R2 U2' R' U R' U R)",
+  "thread": null
+ },
+ {
+  "ref": "G7",
+  "name": "C2-",
+  "img": true,
+  "note": "(R U R' U R' U2' R2 U R2' U R2 U2 R' U' R U2' R') \n(y2') (R U2 R' U R U2' R2' U' R2 U' R2' U2 R U' R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "J7",
+  "name": "E2",
+  "img": true,
+  "note": "(x') (R U' R' DR R U R' DR' R U R' DR R U' R' DR')\n(y') (R2 U R' U' y R U R' U' R U R' U' R U R' F U' F2')\n(y') (BR' R' U2 R U' R' U R' U2' R U R' U R U' R U' BR)",
+  "thread": null
+ },
+ {
+  "ref": "R15",
+  "name": "I6+",
+  "img": true,
+  "note": "x' (R2 U2' R2' F' R2 U2 R2' F2 R2 U2' R2' F' R2 U2 R2')\ny2' (F R U2 R' U' R U' R' F' U R' U' R U2' R' U R U R' U R)",
+  "thread": null
+ },
+ {
+  "ref": "S15",
+  "name": "I6-",
+  "img": true,
+  "note": "(R2' F2 R2 U' R2' F2' R2 U2 R2' F2 R2 U' R2' F2' R2)\n(y2') (R2' F2 R2 U R2' F2' R2 U2' R2' F2 R2 U R2' F2' R2)\n(BR' R' U2' R U R' U R BR U' R U R' U2 R U' R' U' R U' R')",
+  "thread": null
+ },
+ {
+  "ref": "L7",
+  "name": "F2+",
+  "img": true,
+  "note": "(R U R' U2 R' U2' R2 U' R' U R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "M7",
+  "name": "F2-",
+  "img": true,
+  "note": "(R' U' R U2' R U2 R2' U R U' R U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "N7",
+  "name": "G2+",
+  "img": true,
+  "note": "(R U' R2' U' F U F' R2 U2' R' U R U2 R' F U' F')\n(y') (R U2' R' U' R U2' R2' U2 L U' R U L' R' U2' R)\n(y) (R' U2 R L U' R' U L' U2' R2 U2 R' U R U2 R')",
+  "thread": null
+ },
+ {
+  "ref": "O7",
+  "name": "G2-",
+  "img": true,
+  "note": "(F U2' R' U' R F' R' U' R F U' R' U2' R U2 F')",
+  "thread": null
+ },
+ {
+  "ref": "P7",
+  "name": "H2+",
+  "img": true,
+  "note": "(R2 U2 R2' U' R2 U' R2' y' R2' U' R2 U' R2' U2 R2)",
+  "thread": null
+ },
+ {
+  "ref": "X15",
+  "name": "L6+",
+  "img": true,
+  "note": "(R U R' U2 R U' R' U R U2 R2' U' R U' R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "Q7",
+  "name": "H2-",
+  "img": true,
+  "note": "(R2' U2' R2 U R2' U R2 y R2 U R2' U R2 U2' R2')",
+  "thread": null
+ },
+ {
+  "ref": "Y15",
+  "name": "L6-",
+  "img": true,
+  "note": "(R' U' R U2' R' U R U' R' U2' R2 U R' U R U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "R7",
+  "name": "I2+",
+  "img": true,
+  "note": "(R U' R2' U' F' R U R U' R' F U' R' U R U' R U2' R')\n(R2' U' F2 U' R2 U' R2' U F2' R2 U' R2' U2' R2)",
+  "thread": null
+ },
+ {
+  "ref": "S7",
+  "name": "I2-",
+  "img": true,
+  "note": "(R2 U bR2' U R2' U R2 U' bR2 R2' U R2 U2 R2')",
+  "thread": null
+ },
+ {
+  "ref": "T7",
+  "name": "J2+",
+  "img": true,
+  "note": "(R' U2' R U2 R' U R U R U2 R' U' R U' R2' U' R)",
+  "thread": null
+ },
+ {
+  "ref": "U7",
+  "name": "J2-",
+  "img": true,
+  "note": "(R U2 R' U2' R U' R' U' R' U2' R U R' U R2 U R')\n(y2') (R U2 R' U R2' U' R U' R U R' U R2 U2 R' U R' U' R' U R2)",
+  "thread": null
+ },
+ {
+  "ref": "V7",
+  "name": "K2+",
+  "img": true,
+  "note": "(R' U2 R U' R' U2 R U2' R' U' R U2' R' U R U2' R' U R)\ny' (R U R' U2' R U R' U2' R U' R' U2' R U2 R' U' R U2 R')",
+  "thread": null
+ },
+ {
+  "ref": "W7",
+  "name": "K2-",
+  "img": true,
+  "note": "(R U2' R' U R U2' R' U2 R U R' U2 R U' R' U2 R U' R')\ny (R' U' R U2 R' U' R U2 R' U R U2 R' U2' R U R' U2' R)\ny' (R2 U2' R2' U' R2 U2' R' U R' U' R' F R2 U' R' U' R U R' F')",
+  "thread": null
+ },
+ {
+  "ref": "X7",
+  "name": "L2",
+  "img": true,
+  "note": "(R' U2' R U' R' U R U R' U R2 U R' U R U R' U' R U2' R')\ny2' (R U2 R' U R U' R' U' R U' R2' U' R U' R' U' R U R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "AB7",
+  "name": "N2+",
+  "img": true,
+  "note": "(R L U2 L' U R' L U' R U2 L' U2 R')",
+  "thread": null
+ },
+ {
+  "ref": "AC7",
+  "name": "N2-",
+  "img": true,
+  "note": "(R' L' U2' R U' L R' U L' U2' R U2' L)\n(R' U2 R U2' R2' U' R2 U' R2' U R2 U' R2' U2 R U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "AL15",
+  "name": "S6+",
+  "img": true,
+  "note": "(R U R U R' U R U R' U2' R U' R2' U2' R U R')",
+  "thread": null
+ },
+ {
+  "ref": "AM15",
+  "name": "S6-",
+  "img": true,
+  "note": "(R' U' R' U' R U' R' U' R U2 R' U R2 U2 R' U' R)\n(y2) (R U R2' F' R U2' R U2 R' F R U' R2' U' R U' R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "AF7",
+  "name": "P2+",
+  "img": true,
+  "note": "(F U F' R' F R U' R U2 R' U' R U' R2' F' R)\n(F R U2 R' U' R U' R2' F' L F R F' L')",
+  "thread": null
+ },
+ {
+  "ref": "AG7",
+  "name": "P2-",
+  "img": true,
+  "note": "(BR' R' U2' R U R' U R2 x' U L' U' R' U L)\ny' (R U2' R2' F R F' R U2 R2' F' U2' F U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "AH7",
+  "name": "Q2+",
+  "img": true,
+  "note": "(R' U2' R U' R' U2' R2 U2' R' U' R U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "AI7",
+  "name": "Q2-",
+  "img": true,
+  "note": "(R U2 R' U R U2 R2' U2 R U R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "AJ7",
+  "name": "R2+",
+  "img": true,
+  "note": "(R' U R' U2 R U R U' R2' U2' R2 U R' U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "AK7",
+  "name": "R2-",
+  "img": true,
+  "note": "(R U' R U2' R' U' R' U R2 U2 R2' U' R U2 R')",
+  "thread": null
+ },
+ {
+  "ref": "AL7",
+  "name": "S2+",
+  "img": true,
+  "note": "(R2 U2' R2' U2' R2 U' R' U2 R' U' R' U2' R2 U R2' U R)",
+  "thread": null
+ },
+ {
+  "ref": "AM7",
+  "name": "S2-",
+  "img": true,
+  "note": "(R2' U2 R2 U2 R2' U R U2' R U R U2 R2' U' R2 U' R')",
+  "thread": null
+ },
+ {
+  "ref": "AN7",
+  "name": "T2+",
+  "img": true,
+  "note": "(R' U2' R U2 R' F R U R' U' R' F' R2)",
+  "thread": null
+ },
+ {
+  "ref": "AV15",
+  "name": "X6+",
+  "img": true,
+  "note": "(R' U2 R' U' R2 U' R' U' R U R' U R' U R2 U' R' U2' R)\n(y2') (F R U R' U' R U' R2' U' F' U' F U2 R U' R U R' F')",
+  "thread": null
+ },
+ {
+  "ref": "AO7",
+  "name": "T2-",
+  "img": true,
+  "note": "(R2' F R U R U' R' F' R U2' R' U2 R)\n(y) (R U2 R' U2' R bR' R' U' R U R bR R2')\n ",
+  "thread": null
+ },
+ {
+  "ref": "AW15",
+  "name": "X6-",
+  "img": true,
+  "note": "(R U2' R U R2' U R U R' U' R U' R U' R2' U R U2 R')",
+  "thread": null
+ },
+ {
+  "ref": "AP7",
+  "name": "U2+",
+  "img": true,
+  "note": "(R U R' U2 R' U' R U' R U R2' U R U' R U2' R')\n(R' U2' R U' R U R2' U R U' R U' R' U2 R' U R)",
+  "thread": null
+ },
+ {
+  "ref": "AQ7",
+  "name": "U2-",
+  "img": true,
+  "note": "(R U2 R' U R' U' R2 U' R' U R' U R U2' R U' R')\n(R' U' R U2' R U R' U R' U' R2 U' R' U R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "AR7",
+  "name": "V2+",
+  "img": true,
+  "note": "(R' U R U R' U' R' dR' R U R' dR R U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "AS7",
+  "name": "V2-",
+  "img": true,
+  "note": "(R U' R' F U R U' R' F' R U R' F' U' F R U R')\n(R U' R' U' R U R' U R' DR' R U' R' DR R2 U R')\n(y') (R U R' F' U' F R U R' F R' F' R2 U2' R')",
+  "thread": null
+ },
+ {
+  "ref": "AV7",
+  "name": "X2",
+  "img": true,
+  "note": "(F R U R' F U R' U' F' U R2 U2' R' F')",
+  "thread": null
+ },
+ {
+  "ref": "AX7",
+  "name": "Y2+",
+  "img": true,
+  "note": "(R2 U2' R2' U2 R2 U' R2' U2 R2 U2' R2')\n(R' U2' R U R U R2' U R2 U2' R2' U2 R)\n(y2') (R2' U2 R2 U2' R2' U2' R2 U2' R2' U2 R2)",
+  "thread": null
+ },
+ {
+  "ref": "AY7",
+  "name": "Y2-",
+  "img": true,
+  "note": "(R2' U2 R2 U2' R2' U R2 U2' R2' U2 R2)\n(y2) (R' U2' R2 U2 R2' U' R2 U' R' U' R' U2 R)",
+  "thread": null
+ },
+ {
+  "ref": "AZ7",
+  "name": "Z2",
+  "img": true,
+  "note": "(R' U2' R' U' R F R' F' U R F' U' F U2' R)",
+  "thread": null
+ },
+ {
+  "ref": "F9",
+  "name": "C3+",
+  "img": true,
+  "note": "(R2' U2 R2 U R2' U' R2 U2' R2' U' R2 U2 R2' U2' R2)\n(y) (R2' U2 R2 U2' R2' U R2 U2 R2' U R2 U' R2' U2' R2)",
+  "thread": null
+ },
+ {
+  "ref": "G9",
+  "name": "C3-",
+  "img": true,
+  "note": "(R2 U2' R2' U' R2 U R2' U2 R2 U R2' U2' R2 U2 R2')\n(y') (R2' U2' R2 U2 R2' U' R2 U2' R2' U' R2 U R2' U2 R2)",
+  "thread": null
+ }
+]
